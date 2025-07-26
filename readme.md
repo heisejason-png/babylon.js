@@ -1,4 +1,4 @@
-https://www.threads.com/@jaysonscottheise # Babylon.js
+ # Babylon.js
 
 Getting started? Play directly with the Babylon.js API using our [playground](https://playground.babylonjs.com/). It also contains a lot of samples to learn how to use it.
 
