@@ -128,3 +128,5 @@ If you want to contribute, please read our [contribution guidelines](https://doc
 ## Features
 
 To get a complete list of supported features, please visit our [website](https://www.babylonjs.com/specifications/).
+
+Created by Jason Scott Heise
