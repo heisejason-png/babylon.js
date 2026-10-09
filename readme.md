@@ -130,3 +130,4 @@ If you want to contribute, please read our [contribution guidelines](https://doc
 To get a complete list of supported features, please visit our [website](https://www.babylonjs.com/specifications/).
 
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
